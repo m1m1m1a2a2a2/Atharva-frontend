@@ -1,0 +1,7 @@
+{
+  "name": "MeasureVision Pro",
+  "description": "A high-performance image annotation and measurement platform allowing users to precisely draw bounding boxes, measure distances with interactive lines, and export structured data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
